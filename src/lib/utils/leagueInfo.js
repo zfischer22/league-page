@@ -28,13 +28,13 @@ export const homepageText = `
   <li>🏈 Last place will be known as the league Taco and will change their name and icon for the whole year. They will also have a last place punishment</li>
   </ul>
   <p>Payouts</p>
-  <ol>
+  <ul>
   <li>🏈 $15 Buy in</li>
   <li>🏈 1st place: $65 </li>
   <li>🏈 2nd place: $25 </li>
   <li>🏈 Regular season champ: $30</li>
   <li>🏈 Regular season scoring champ: $30</li>
-  </ol>
+  </ul>
 `;
 /*   STEP 3   */
 /*
