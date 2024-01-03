@@ -7,8 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>🌮Welcome to the Taco League🌮</p>
-  <p>"A taco is a fantasy football manager that has no idea what they are doing. There is usually one taco in each fantasy football league. They are often made fun of for the mistakes they make with their lineups, draft picks, and waiver wire pickups."</p>
+  <h1><p>Welcome to the Taco League</h1>
+  <b>"A taco is a fantasy football manager that has no idea what they are doing. There is usually one taco in each fantasy football league. They are often made fun of for the mistakes they make with their lineups, draft picks, and waiver wire pickups."</b>
   <p>Keeper rules</p>
   <p></p>
   <p></p>
