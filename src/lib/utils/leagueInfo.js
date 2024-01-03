@@ -9,6 +9,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <b>"A taco is a fantasy football manager that has no idea what they are doing. There is usually one taco in each fantasy football league. They are often made fun of for the mistakes they make with their lineups, draft picks, and waiver wire pickups."</b></p>
   <p>Keeper rules</p>
+  <ul>
+  <li>🏈 2 Keepers</li>
+  <li>🏈 The cost of a keeper is next years SAME ROUND draft pick. </li>
+  <li>🏈 Traded player can be kept. Traded player keeps initial draft value.</li>
+  <li>🏈 Players picked up off the waiver wire can be kept. The cost of a WW keeper is the next years ADP at the time of the draft.</li>
+  <li>🏈 A player must be on your roster before the end of the regular season to be considered a keeper.</li>
+  <li>🏈 A player may be a designated keeper for 3 years before going back into the draft pool. This includes the initial draft year. </li>
+</ul>
   <p></p>
   <p></p>
   <p></p>
