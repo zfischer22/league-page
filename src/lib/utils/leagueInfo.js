@@ -14,7 +14,7 @@ export const homepageText = `
   <p></p>
   <p></p>
   <p></p>
-
+`;
 /*   STEP 3   */
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
