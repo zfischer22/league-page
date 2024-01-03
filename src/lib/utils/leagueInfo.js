@@ -17,10 +17,24 @@ export const homepageText = `
   <li>🏈 A player must be on your roster before the end of the regular season to be considered a keeper.</li>
   <li>🏈 A player may be a designated keeper for 3 years before going back into the draft pool. This includes the initial draft year. </li>
 </ul>
-  <p></p>
-  <p></p>
-  <p></p>
-  <p></p>
+  <p>Other League Settings to note</p>
+  <ul>
+  <li>🏈 Draft pic trading is allowed </li>
+  <li>🏈 Draft order will be randomized each year.</li>
+  <li>🏈 Roster (QB, RB, RB, WR, WR, WR, TE, Flex, Defense)</li>
+  <li>🏈 FAAB Waivers $1000 budget</li>
+  <li>🏈 There will be an extra game against the median score each week. That means you have the potential to win 2 games each week.</li>
+  <li>🏈 +5 points to Home team during the playoffs</li>
+  <li>🏈 Last place will be known as the league Taco and will change their name and icon for the whole year. They will also have a last place punishment</li>
+  </ul>
+  <p>Payouts</p>
+  <ol>
+  <li>🏈 $15 Buy in</li>
+  <li>🏈 1st place: $65 </li>
+  <li>🏈 2nd place: $25 </li>
+  <li>🏈 Regular season champ: $30</li>
+  <li>🏈 Regular season scoring champ: $30</li>
+  </ol>
 `;
 /*   STEP 3   */
 /*
